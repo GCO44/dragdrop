@@ -27,8 +27,8 @@
 | acceptFiles         : []  | String |  By default any type of file |
 
 
-```HTML
-/*Example :*/
+```html
+<!-- Example :-->
 <div id="draganddrop" class=" my-5"></div>
 ``` 
 
