@@ -26,9 +26,17 @@
 | :---         |     :---:      |     :---:      |
 | acceptFiles         : []  | String |  By default any type of file |
 
+
+```HTML
+/*Example :*/
+<div id="draganddrop" class=" my-5"></div>
+``` 
+
+
 ```javascript
 /*Example :*/
 $gco("#draganddrop").draganddrop({ 
         acceptFiles:['txt','csv']
     })
 ``` 
+
