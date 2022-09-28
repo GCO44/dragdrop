@@ -28,7 +28,7 @@
 
 ```javascript
 /*Example :*/
-$("#draganddrop").swallow({ 
+$gco("#draganddrop").draganddrop({ 
         acceptFiles:['txt','csv']
     })
 ``` 
