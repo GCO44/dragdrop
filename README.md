@@ -10,6 +10,14 @@
 >You can find an example accessible from the "index.html" page
 
 ```javascript
+
+//Callback Function Parameters:
+
+// phpPathTarget: Path to the PHP file for server-side processing.
+// filesPathTarget: Path to the directory where uploaded files will be stored.
+// acceptFiles: Array specifying accepted file types.
+// onSuccess: Callback function triggered upon successful upload.
+
     $gco("#draganddrop").draganddrop({
         phpPathTarget       : "./",
         filesPathTarget     : "../target/",
